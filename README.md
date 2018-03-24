@@ -4,6 +4,7 @@
 [1]: https://twitter.com/Ritwik_G
 
 ## Ritwik Gupta [![Ritwik Twitter][1.1]][1]
+These are the ones I found particularly impactful, it is by no means an exhaustive list of papers/essays/books I recommend!
 
 ### Philosophy of Artificial Intelligence
 
@@ -77,3 +78,8 @@ Open Babel: An open chemical toolbox - Boyle et. al. [link](https://link.springe
 ### Medicine
 
 Chronic Traumatic Encephalopathy In a National Football League Player - Omalu et. al. [link](http://www.jeannemarielaskas.com/wp-content/uploads/2015/10/CTE-NFL-part-1.pdf)
+
+### Equine Veterinary Science
+(shoutout to my friend Hannah Lynch for getting me interested in reading anything about horses)
+
+A Critical Review of Horse-Related Risk: A Research Agenda for Safer Mounts, Riders and Equestrian Cultures - Thompson, McGreevy, McManus [link](www.mdpi.com/2076-2615/5/3/0372/pdf)
