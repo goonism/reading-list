@@ -1,6 +1,9 @@
 # A Reading List for the Goon Squad
 
-## Ritwik
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: https://twitter.com/Ritwik_G
+
+## Ritwik Gupta [![Ritwik Twitter][1.1]][1]
 
 ### Philosophy of Artificial Intelligence
 
