@@ -36,6 +36,8 @@ Deep Learning: A Critical Appraisal - Gary Marcus [link](https://arxiv.org/abs/1
 
 Pattern Recognition and Machine Learning (PRML) - Christopher Bishop [link](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
+Memory Fusion Network for Multi-view Sequential Learning - Zadeh et. al. [link](https://arxiv.org/abs/1802.00927)
+
 ### Systems
 
 A Case for Redundant Arrays of Inexpensive Disks (RAID) - Patterson, Gibson, Katz [link](http://www-inst.eecs.berkeley.edu/~cs61c/resources/Patterson88.pdf)
@@ -49,6 +51,12 @@ Chemical specificity of nucleic acids and mechanism of their enzymatic degradati
 Creation of a bacterial cell controlled by a chemically synthesized genome - Gibson et. al. [link](https://2010.igem.org/wiki/images/e/ec/Ventersyntheticcell.pdf)
 
 ATG Systems from the Protein Structural Point of View - Noda, Ohsumi, Inagaki [link](https://pubs.acs.org/doi/full/10.1021/cr800459r)
+
+### Neural Basis of Cognition
+
+Activation of the middle fusiform 'face area' increases with expertise in recognizing novel objects - Gauthier et. al. [link]( http://www.biac.duke.edu/education/courses/spring03/cogdev/readings/I.%20Gauthier%20et%20al%20(1999).pdf)
+
+Hand Movements: A Window into Haptic Object Recognition - Lederman, Klatzky [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.7620&rep=rep1&type=pdf)
 
 ### Chemistry
 
