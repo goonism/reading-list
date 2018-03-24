@@ -42,6 +42,18 @@ Memory Fusion Network for Multi-view Sequential Learning - Zadeh et. al. [link](
 
 A Case for Redundant Arrays of Inexpensive Disks (RAID) - Patterson, Gibson, Katz [link](http://www-inst.eecs.berkeley.edu/~cs61c/resources/Patterson88.pdf)
 
+### Cyberintelligence
+
+APT1: Exposing One of China’s Cyber Espionage Units - Mandiant [link](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
+
+### Cybersecurity
+
+Lest We Remember: Cold Boot Attacks on Encryption Keys - Halderman et. al. [link](https://jhalderm.com/pub/papers/coldboot-sec08.pdf)
+
+PicoCTF: A Game-Based Computer Security Competition for High School Students - Chapman, Burket, Brumley [link](https://www.usenix.org/system/files/conference/3gse14/3gse14-chapman.pdf)
+
+Common Sense Guide to Prevention and Detection of Insider Threats - Cappelli et. al [link](https://resources.sei.cmu.edu/asset_files/whitepaper/2009_019_001_50285.pdf)
+
 ### Biology
 
 Multiplex Genome Engineering Using CRISPR/Cas Systems - Cong et. al. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795411/)
