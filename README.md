@@ -17,7 +17,7 @@ Table of Contents
   * [Orens Xhagolli](#orens-xhagolli)
      * [Machine Learning](#machine-learning)
      * [Computer Graphics](#computer-graphics)
-  * [Niraj Pant](#niraj-pant)
+  * [Niraj Pant](#niraj-pant-)
      * [Cryptocurrencies](#cryptocurrencies)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
