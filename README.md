@@ -14,6 +14,9 @@ Table of Contents
      * [Chemistry](#chemistry)
      * [Medicine](#medicine)
      * [Equine Veterinary Science](#equine-veterinary-science)
+  * [Orens Xhagolli](#orens-xhagolli)
+     * [Machine Learning](#machine-learning)
+     * [Computer Graphics](#computer-graphics)
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -101,3 +104,15 @@ Chronic Traumatic Encephalopathy In a National Football League Player - Omalu et
 A Critical Review of Horse-Related Risk: A Research Agenda for Safer Mounts, Riders and Equestrian Cultures - Thompson, McGreevy, McManus [link](www.mdpi.com/2076-2615/5/3/0372/pdf)
 
 Validation of a Laboratory Method for Evaluating Dynamic Properties of Reconstructed Equine Racetrack Surfaces - Setterbo et. al. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050534)
+
+## Orens Xhagolli
+Some really cool papers :)
+
+### Machine Learning
+
+Gradient-Based Learning Applied to Document Recognition (Very well written paper!!!) [link](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+
+### Computer Graphics
+(Most of the stuff that I will post on this section is still related to ML)
+
+Synthesizing Obama: Learning Lip Sync from Audio [link](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
