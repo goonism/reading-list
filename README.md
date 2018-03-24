@@ -1,5 +1,21 @@
 # A Reading List for the Goon Squad
 
+Table of Contents
+==================
+* [A Reading List for the Goon Squad](#a-reading-list-for-the-goon-squad)
+  * [Ritwik Gupta](#ritwik-gupta-)
+     * [Philosophy of Artificial Intelligence](#philosophy-of-artificial-intelligence)
+     * [Machine Learning/Artificial Intelligence](#machine-learningartificial-intelligence)
+     * [Systems](#systems)
+     * [Cyberintelligence](#cyberintelligence)
+     * [Cybersecurity](#cybersecurity)
+     * [Biology](#biology)
+     * [Neural Basis of Cognition](#neural-basis-of-cognition)
+     * [Chemistry](#chemistry)
+     * [Medicine](#medicine)
+     * [Equine Veterinary Science](#equine-veterinary-science)
+
+
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: https://twitter.com/Ritwik_G
 
