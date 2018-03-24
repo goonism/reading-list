@@ -47,3 +47,13 @@ Multiplex Genome Engineering Using CRISPR/Cas Systems - Cong et. al. [link](http
 Chemical specificity of nucleic acids and mechanism of their enzymatic degradation - Erwin Chargaff [link](http://biology.hunter.cuny.edu/molecularbio/Class%20Materials%20Fall%202013%20Biol203/Papers%20to%20read%20when%20assigned/2.%20Chargaff/Chargaff.pdf)
 
 Creation of a bacterial cell controlled by a chemically synthesized genome - Gibson et. al. [link](https://2010.igem.org/wiki/images/e/ec/Ventersyntheticcell.pdf)
+
+ATG Systems from the Protein Structural Point of View - Noda, Ohsumi, Inagaki [link](https://pubs.acs.org/doi/full/10.1021/cr800459r)
+
+### Chemistry
+
+Open Babel: An open chemical toolbox - Boyle et. al. [link](https://link.springer.com/article/10.1186/1758-2946-3-33)
+
+### Medicine
+
+Chronic Traumatic Encephalopathy In a National Football League Player - Omalu et. al. [link](http://www.jeannemarielaskas.com/wp-content/uploads/2015/10/CTE-NFL-part-1.pdf)
