@@ -10,17 +10,17 @@ These are the ones I found particularly impactful, it is by no means an exhausti
 
 Meditations 1/2/3 - Descartes [link](http://www.wright.edu/~charles.taylor/descartes/mede.html)
 
-"Minds, Brains, and Programs" - John Searle [link](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)
+Minds, Brains, and Programs - John Searle [link](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)
 
 Substance Dualism (Meditations 6) - Descartes [link](http://www.wright.edu/~charles.taylor/descartes/mede.html)
 
 The replies to the Chinese Room Argument - Various [link](https://plato.stanford.edu/entries/chinese-room/#4)
 
-"Computing Machinery and Intelligence" - Turing [link](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+Computing Machinery and Intelligence - Turing [link](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
 
-"Division by Zero" - Chiang [link](http://www-bcf.usc.edu/~russ813/chiang-division-by-zero.pdf)
+Division by Zero - Chiang [link](http://www-bcf.usc.edu/~russ813/chiang-division-by-zero.pdf)
 
-"What is it Like to be a Bat" - Thomas Nagel [link](https://organizations.utep.edu/portals/1475/nagel_bat.pdf)
+What is it Like to be a Bat - Thomas Nagel [link](https://organizations.utep.edu/portals/1475/nagel_bat.pdf)
 
 [EdX course on Minds and Machines](https://www.edx.org/course/minds-machines-mitx-24-09x)
 
@@ -83,3 +83,5 @@ Chronic Traumatic Encephalopathy In a National Football League Player - Omalu et
 (shoutout to my friend Hannah Lynch for getting me interested in reading anything about horses)
 
 A Critical Review of Horse-Related Risk: A Research Agenda for Safer Mounts, Riders and Equestrian Cultures - Thompson, McGreevy, McManus [link](www.mdpi.com/2076-2615/5/3/0372/pdf)
+
+Validation of a Laboratory Method for Evaluating Dynamic Properties of Reconstructed Equine Racetrack Surfaces - Setterbo et. al. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050534)
