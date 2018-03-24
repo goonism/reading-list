@@ -17,10 +17,12 @@ Table of Contents
   * [Orens Xhagolli](#orens-xhagolli)
      * [Machine Learning](#machine-learning)
      * [Computer Graphics](#computer-graphics)
-
+  * [Niraj Pant](#niraj-pant)
+     * [Cryptocurrencies](#cryptocurrencies)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: https://twitter.com/Ritwik_G
+[2]: https://twitter.com/niraj
 
 ## Ritwik Gupta [![Ritwik Twitter][1.1]][1]
 These are the ones I found particularly impactful, it is by no means an exhaustive list of papers/essays/books I recommend!
@@ -116,3 +118,10 @@ Gradient-Based Learning Applied to Document Recognition (Very well written paper
 (Most of the stuff that I will post on this section is still related to ML)
 
 Synthesizing Obama: Learning Lip Sync from Audio [link](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
+
+## Niraj Pant [![Niraj Twitter][1.1]][2]
+tbh prob the coolest one on this list, but i'll leave you to decide that
+
+### Cryptocurrencies
+
+MimbleWimble [link](https://github.com/mimblewimble/grin/blob/master/doc/intro.md)
