@@ -19,10 +19,16 @@ Table of Contents
      * [Computer Graphics](#computer-graphics)
   * [Niraj Pant](#niraj-pant-)
      * [Cryptocurrencies](#cryptocurrencies)
+  * [Stefan Aleksic](#stefan-aleksic-)
+     * [Censorship Resistant Networks](#censorship-resistant-networks)
+     * [Ledger Based Networks](#ledger-based-networks)
+     * [Censorship Analysis](#censorship-analysis)
+     * [Books that Have Influenced Me ](#books-that-have-influenced-me)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: https://twitter.com/Ritwik_G
 [2]: https://twitter.com/niraj
+[3]: https://twitter.com/stayfun_
 
 ## Ritwik Gupta [![Ritwik Twitter][1.1]][1]
 These are the ones I found particularly impactful, it is by no means an exhaustive list of papers/essays/books I recommend!
@@ -125,3 +131,61 @@ tbh prob the coolest one on this list, but i'll leave you to decide that
 ### Cryptocurrencies
 
 MimbleWimble [link](https://github.com/mimblewimble/grin/blob/master/doc/intro.md)
+
+## Stefan Aleksic [![Stefan Twitter][1.1]][3]
+Working hard to make a more open internet.
+
+### Censorship Resistant Networks
+
+[Untraceable electronic mail, return addresses, and digital pseudonyms](https://www.freehaven.net/anonbib/cache/chaum-mix.pdf)
+
+[Crowds: Anonymity for Web Transactions](http://avirubin.com/crowds.pdf)
+
+[The Sybil Attack](https://www.freehaven.net/anonbib/cache/sybil.pdf)
+
+[Tor: The Second Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
+
+[Evading Censorship with Browser-Based Proxies](https://crypto.stanford.edu/flashproxy/flashproxy.pdf)
+
+### Ledger Based Networks
+
+[Dat - Distributed Dataset Synchronization and Versioning](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
+
+### Censorship Analysis
+[How the Great Firewall of China is Blocking Tor](https://www.cs.kau.se/philwint/static/gfc/foci2012.pdf)
+
+### Books that Have Influenced Me 
+
+[Hackers and Painters: Big Ideas from the Computer Age](https://www.goodreads.com/book/show/6565257-hackers-and-painters)
+
+[Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196)
+
+[Siddhartha](https://www.amazon.com/Siddhartha-Hermann-Hesse/dp/0553208845)
+
+[Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
+
+[Roots: The Saga of an American Family](https://www.amazon.com/Roots-American-Family-Alex-Haley/dp/030682485X)
+
+[Between the World and Me](https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0451482212)
+
+[High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)
+
+[Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+
+[Introduction To Algorithms](https://www.goodreads.com/book/show/9671654-introduction-to-algorithms)
+
+[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+[A Long Way Gone: Memoirs of a Boy Soldier](https://www.goodreads.com/book/show/43015.A_Long_Way_Gone)
+
+[The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
+
+[Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm)
+
+[Manhood: How to Be a Better Man-or Just Live with One](https://www.goodreads.com/book/show/19287159-manhood)
+
+[Without Their Permission: How the 21st Century Will Be Made, Not Managed](https://www.goodreads.com/book/show/17333428-without-their-permission)
+
+[How to Live on 24 Hours a Day](https://www.goodreads.com/book/show/4855.How_to_Live_on_24_Hours_a_Day)
+
+[Wild Swans: Three Daughters of China](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
