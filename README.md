@@ -21,7 +21,7 @@ Table of Contents
      * [Cryptocurrencies](#cryptocurrencies)
   * [Stefan Aleksic](#stefan-aleksic-)
      * [Censorship Resistant Networks](#censorship-resistant-networks)
-     * [Ledger Based Networks](#ledger-based-networks)
+     * [Distributed Networks](#ledger-based-networks)
      * [Censorship Analysis](#censorship-analysis)
      * [Books that Have Influenced Me ](#books-that-have-influenced-me)
 
@@ -147,7 +147,7 @@ Working hard to make a more open internet.
 
 [Evading Censorship with Browser-Based Proxies](https://crypto.stanford.edu/flashproxy/flashproxy.pdf)
 
-### Ledger Based Networks
+### Distributed Networks
 
 [Dat - Distributed Dataset Synchronization and Versioning](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
 
